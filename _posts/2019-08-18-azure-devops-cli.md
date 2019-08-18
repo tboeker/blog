@@ -39,6 +39,7 @@ az login
 Als DevOps Organisation verwende ich hier 'tboeker'
 https://dev.azure.com/tboeker/
 
+Also konfigurieren und ein devops-demo Projekt anlegen
 
 ```
 
@@ -50,7 +51,6 @@ az devops project list
 
 # create a new azure devops project
 az devops project create --name devops-demo --visibility public
-
 
 ```
 
