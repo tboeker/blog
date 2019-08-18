@@ -145,9 +145,9 @@ masthead_title           : # overrides the website title displayed in the masthe
 
 
 # # Reading Files
-# include:
+include:
 #   - .htaccess
-#   - _pages
+  - _pages
 # exclude:
 #   - "*.sublime-project"
 #   - "*.sublime-workspace"
@@ -233,7 +233,7 @@ whitelist:
   - jekyll-include-cache
 
 
-# # Archives
+# Archives
 # #  Type
 # #  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
 # #  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
@@ -251,10 +251,10 @@ whitelist:
 #   path: /tags/
 # # https://github.com/jekyll/jekyll-archives
 # # jekyll-archives:
-# #   enabled:
-# #     - categories
-# #     - tags
-# #   layouts:
+#   # enabled:
+#     # - categories
+#     # - tags
+#   # layouts:
 # #     category: archive-taxonomy
 # #     tag: archive-taxonomy
 # #   permalinks:
