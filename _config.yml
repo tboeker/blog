@@ -98,7 +98,7 @@ masthead_title           : # overrides the website title displayed in the masthe
 author:
   name             : "Tobias Böker"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "... das bin ich"
+  bio              : "Gründer und Entwickler bei den Sofware Pionieren"
   location         : "Dalhausen"
   # email            : 
   # links:
@@ -243,12 +243,12 @@ whitelist:
 # #  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
 # #  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
 # #  - <base_path/my-awesome-category/index.html ~> path: /
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-   type: liquid
-   path: /tags1/
+# category_archive:
+#   type: liquid
+#   path: /categories/
+# tag_archive:
+#    type: liquid
+#    path: /tags1/
 # # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   # enabled:
