@@ -1,11 +1,7 @@
 main:
   - title: "About"
     url: /about/
-  # - title: "Festival"
-  #   url: /festival/
-  # - title: "Line-Up"
-  #   url: /lineup/
-  # - title: "History"
-  #   url: /history/
-  # - title: "Partner"
-  #   url: /partner/
+  - title: "Archive by Tags"
+    url: /tags/
+  - title: "Archive by Year"
+    url: /year-archive/
