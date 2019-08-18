@@ -1,7 +1,7 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Archive by Tag"
+  - title: "Posts by Tag"
     url: /tags/
   - title: "Archive by Year"
     url: /year-archive/
