@@ -94,29 +94,29 @@ masthead_title           : # overrides the website title displayed in the masthe
 #     anonymize_ip         : # true, false (default)
 
 
-# # Site Author
-# author:
-#   name             : "Tobias Böker"
-#   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-#   bio              : "... das bin ich"
-#   location         : "Dalhausen"
-#   email            : 
-#   links:
-#     - label: "Email"
-#       icon: "fas fa-fw fa-envelope-square"
-#       # url: mailto:your.name@email.com
-#     - label: "Website"
-#       icon: "fas fa-fw fa-link"
-#       url: "https://tboeker.de"
+# Site Author
+author:
+  name             : "Tobias Böker"
+  avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "... das bin ich"
+  location         : "Dalhausen"
+  # email            : 
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:tb@softwarepioniere.de
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://tboeker.de"
 #     # - label: "Twitter"
 #     #   icon: "fab fa-fw fa-twitter-square"
 #     #   # url: "https://twitter.com/"
 #     # - label: "Facebook"
 #     #   icon: "fab fa-fw fa-facebook-square"
 #     #   # url: "https://facebook.com/"
-#     - label: "GitHub"
-#       icon: "fab fa-fw fa-github"
-#       url: "https://github.com/tboeker/
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/tboeker/
 #     # - label: "Instagram"
 #     #   icon: "fab fa-fw fa-instagram"
 #     #   # url: "https://instagram.com/"
@@ -280,6 +280,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
-      share: true
-      related: true
+      comments: false # true
+      share: false # true
+      related: false #true
