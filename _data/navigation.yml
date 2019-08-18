@@ -1,6 +1,6 @@
 main:
-  - title: "Aktuelles"
-    url: /aktuelles/
+  - title: "About"
+    url: /about/
   # - title: "Festival"
   #   url: /festival/
   # - title: "Line-Up"
