@@ -4,7 +4,7 @@ minimal_mistakes_skin     : "dark" # "default" # "air", "aqua", "contrast", "dar
 
 # Site Settings
 locale                   : "de-DE"
-title                    : "tboeker dev blog"
+title                    : "tboeker"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Tobias Böker"
