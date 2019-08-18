@@ -121,18 +121,18 @@ author:
 #     #   icon: "fab fa-fw fa-instagram"
 #     #   # url: "https://instagram.com/"
 
-# # Site Footer
-# footer:
-#   links:
+# Site Footer
+footer:
+  links:
 #     - label: "Twitter"
 #       icon: "fab fa-fw fa-twitter-square"
-#       # url:
+#       url:
 #     - label: "Facebook"
 #       icon: "fab fa-fw fa-facebook-square"
 #       # url:
-#     - label: "GitHub"
-#       icon: "fab fa-fw fa-github"
-#       # url:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: https://github.com/tboeker
 #     - label: "GitLab"
 #       icon: "fab fa-fw fa-gitlab"
 #       # url:
@@ -177,8 +177,8 @@ include:
 # keep_files:
 #   - .git
 #   - .svn
-# encoding: "utf-8"
-# markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 
 # # Conversion
