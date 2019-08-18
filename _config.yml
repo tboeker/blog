@@ -98,7 +98,7 @@ masthead_title           : # overrides the website title displayed in the masthe
 author:
   name             : "Tobias Böker"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Gründer und Entwickler bei den Sofware Pionieren"
+  bio              : "Gründer und Entwickler bei den Software Pionieren"
   location         : "Dalhausen"
   # email            : 
   # links:
