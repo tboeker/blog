@@ -3,9 +3,8 @@ title:  "Azure DevOps CLI"
 categories:
   - posts
 tags:
-  - azure
-  - devops
-  - cli
+  - azure-cli
+  - azure-devops-cli
 ---
 
 Die Azure CLI wird mittlerweile häufig benutzt. Ich verwende eigentlich immer die PowerShell. 
