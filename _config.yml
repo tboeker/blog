@@ -137,6 +137,11 @@ footer:
     - label: "Software Pioniere"
       icon: "fab fa-fw fas fa-angle-double-right"
       url: https://www.softwarepioniere.de
+    - label: "Impressum"
+      url: "/impressum"
+    - label: "Datenschutz"
+      url: "/datenschutz"
+      
 #     - label: "GitLab"
 #       icon: "fab fa-fw fa-gitlab"
 #       # url:
