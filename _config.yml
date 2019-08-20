@@ -134,7 +134,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: https://github.com/tboeker
     - label: "Software Pioniere"
-      icon: "fab fa-fw fa-file-o"
+      icon: "fab fa-fw fas fa-angle-double-right"
       url: https://www.softwarepioniere.de
 #     - label: "GitLab"
 #       icon: "fab fa-fw fa-gitlab"
