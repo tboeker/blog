@@ -30,5 +30,5 @@ Diese Build Tools tauchen zwar im Visual Studio Installer auf.. Nützt aber nich
 
 Hier noch ein paar Links zum Thema:
 
-* https://spin.atomicobject.com/2019/03/27/node-gyp-windows/
-* https://danielwertheim.se/solution-to-issues-with-node-gyp-node-sass-on-windows/
+(https://spin.atomicobject.com/2019/03/27/node-gyp-windows/)
+(https://danielwertheim.se/solution-to-issues-with-node-gyp-node-sass-on-windows/)
