@@ -9,7 +9,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Tobias Böker"
 description              : "Gedanken, Blog, Development"
-url                      : "https://tboeker.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://tboeker.de" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : tboeker/tboeker.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -67,7 +67,7 @@ comments:
 #   instant_search         : # false (default), true
 # # SEO Related
 # google_site_verification :
-bing_site_verification   : "E28D8B3DF250205DAFF052A96A4B04CE"
+# bing_site_verification   : 
 # yandex_site_verification :
 # naver_site_verification  :
 
