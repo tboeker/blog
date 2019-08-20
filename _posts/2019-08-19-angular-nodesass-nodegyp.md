@@ -3,8 +3,8 @@ title:  "node node-sass node-gyp fehler"
 categories:
   - posts
 tags:
+  - npm
   - nodejs
-  - angular
 ---
 
 Das Modul node-sass verwendet node-gyp. Dabei wird beim Installieren der Pakete (npm i) eine c++ Compilierung durchgeführt. 
