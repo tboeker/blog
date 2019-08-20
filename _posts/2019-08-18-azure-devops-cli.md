@@ -8,7 +8,7 @@ tags:
 ---
 
 Die Azure CLI wird mittlerweile häufig benutzt. Ich verwende eigentlich immer die PowerShell. 
-Die gibt es ja mittlerweile auch Cross Platform [pwsh](https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell) Unter Windows ist [chocolatey](https://chocolatey.org) ein guter Begleiter .
+Die gibt es ja mittlerweile auch Cross-Platform [pwsh](https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell). Unter Windows ist [chocolatey](https://chocolatey.org) ein guter Begleiter.
 
 Es wird Zeit, die Azure DevOps CLI auszuprobieren. 
 Vorher aber erstmal installieren. PowerShell als Administrator öffnen: 
@@ -53,3 +53,4 @@ az devops project create --name devops-demo --visibility public
 
 ```
 
+mehr folgt dann demnächst...
