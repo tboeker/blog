@@ -72,10 +72,10 @@ bing_site_verification   : "E28D8B3DF250205DAFF052A96A4B04CE"
 # naver_site_verification  :
 
 # # Social Sharing
-# twitter:
-#   username               :
-# facebook:
-#   username               :
+twitter:
+  username               : "TobiasBoeker"
+  facebook:
+    username               : "tobias.boker.1"
 #   app_id                 :
 #   publisher              :
 # og_image                 : # Open Graph/Twitter default site image
