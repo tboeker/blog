@@ -99,7 +99,7 @@ author:
   name             : "Tobias Böker"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Gründer und Entwickler bei den Software Pionieren"
-  location         : "Dalhausen"
+  # location         : "Dalhausen"
   # email            : 
   # links:
     # - label: "Email"
