@@ -138,10 +138,12 @@ footer:
       icon: "fab fa-fw fas fa-angle-double-right"
       url: https://www.softwarepioniere.de
     - label: "Impressum"
+      icon: "fab fa-fw fas fa-align-justify"
       url: "/impressum"
     - label: "Datenschutz"
+      icon: "fab fa-fw fas fa-unlock-alt"
       url: "/datenschutz"
-      
+
 #     - label: "GitLab"
 #       icon: "fab fa-fw fa-gitlab"
 #       # url:
